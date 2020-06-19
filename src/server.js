@@ -90,4 +90,4 @@ server.get("/search", (req, res) => {
  })
 
 //ligar o servidor
-server.listen(443)
+server.listen(80)
