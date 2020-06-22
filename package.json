@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Repositório da Next Level Week da Rocketseat",
   "main": "src/server.js",
+  "engines": {
+    "npm": "6.x"
+  },
   "scripts": {
     "start": "node src/server.js"
   },
