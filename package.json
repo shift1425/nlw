@@ -2,12 +2,12 @@
   "name": "nlw",
   "version": "1.0.0",
   "description": "Repositório da Next Level Week da Rocketseat",
-  "main": "app/src/server.js",
+  "main": "server.js",
   "engines": {
     "npm": "6.x"
   },
   "scripts": {
-    "start": "node app/src/server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "express": "^4.17.1",
